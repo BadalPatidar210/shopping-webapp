@@ -1,0 +1,16 @@
+.card{
+    border: 1px solid black;
+    height:200px;
+    width:200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card .image >img{
+
+}
+
+img{
+   height:180px;
+    width: 150px;
+}
